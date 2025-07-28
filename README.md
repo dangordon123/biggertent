@@ -1,3 +1,5 @@
+<img src="bigger tent.jpg" alt="A Bigger Tent" width="400">
+
 <body>
   <h1>BIGGER TENT</h1>
 
