@@ -61,4 +61,3 @@
 
   <p><strong>CONTACT:</strong> <a href="mailto:dan@danjgordon.com">dan@danjgordon.com</a></p>
 </body>
-</html>
