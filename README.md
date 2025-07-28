@@ -47,7 +47,7 @@
 
   <section>
     <h2>STEP 4: BE CREATIVE</h2>
-    <p>There are endless ways to express what you believe and move the community and leaders of Jewish institutions to be compassionate for Gazans. Just as there are many ways to be Jewish, there are many ways to stand up for what is right.</p>
+    <p>There are endless ways to express what you believe and to move the community and leaders of Jewish institutions to be compassionate for Gazans. Just as there are many ways to be Jewish, there are many ways to stand up for what is right.</p>
   </section>
 
   <section>
