@@ -1,23 +1,3 @@
-# biggertent
- A guide for Jews who want to spread compassion for Gazans in Jewish institutions
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Bigger Tent Guide</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      max-width: 700px;
-      margin: 2rem auto;
-      font-family: sans-serif;
-      line-height: 1.6;
-      padding: 1rem;
-    }
-    section {
-      margin-bottom: 2rem;
-    }
-  </style>
 </head>
 <body>
   <h1>BIGGER TENT</h1>
