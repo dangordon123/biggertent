@@ -34,7 +34,7 @@
     <ul>
       <li>Place a phone call to the rabbi, executive director, board of directors, or other leadership.</li>
       <li>Write an email or letter to the rabbi, executive director, board of directors, or other leadership.</li>
-      <li>SSchedule a meeting with Jewish leadership, individually or as a group. There is strength in numbers, but one-to-one meetings can also be powerful.</li>
+      <li>Schedule a meeting with Jewish leadership, individually or as a group. There is strength in numbers, but one-to-one meetings can also be powerful.</li>
       <li>Publish an article in a newspaper, magazine, or blog entry online.</li>
       <li>Show up to public Jewish events and express how you feel.</li>
       <li>Ask to speak on the record at the next board meeting of the synagogue.</li>
