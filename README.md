@@ -80,8 +80,10 @@
      Click here to view/download Bigger Tent PDF in Color
   </a>
 </p>
+</p>
   <a href="https://drive.google.com/file/d/1Rjr-dkPdvmiO8kp6bBNRmfyvolEGVWdU/view?usp=sharing" 
      target="_blank" 
      rel="noopener noreferrer">
      Click here to view/download Bigger Tent PDF in B&W
   </a>
+</p>
