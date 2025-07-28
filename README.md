@@ -26,7 +26,15 @@
       <li>What can we do to encourage recognition of the humanity of the people of Gaza?</li>
     </ul>
   </section>
-
+<p>
+  <strong>Description:</strong> This link takes you to the official Mozilla documentation where you can learn about HTML tags, attributes, and best practices.
+  <br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" 
+     target="_blank" 
+     rel="noopener noreferrer">
+     Click here to visit MDN HTML Docs
+  </a>
+</p>
   <section>
     <h2>STEP 3: ADVOCATE / SPEAKING UP</h2>
     <p>Take action:</p>
@@ -61,3 +69,5 @@
 
   <p><strong>CONTACT:</strong> <a href="mailto:dan@danjgordon.com">dan@danjgordon.com</a></p>
 </body>
+
+
