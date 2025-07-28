@@ -85,4 +85,3 @@
      rel="noopener noreferrer">
      Click here to view/download Bigger Tent PDF in B&W
   </a>
-</p>
