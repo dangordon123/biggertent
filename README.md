@@ -1,4 +1,3 @@
-</head>
 <body>
   <h1>BIGGER TENT</h1>
 
