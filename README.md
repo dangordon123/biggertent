@@ -70,4 +70,19 @@
   <p><strong>CONTACT:</strong> <a href="mailto:dan@danjgordon.com">dan@danjgordon.com</a></p>
 </body>
 
-
+<p>
+  <strong>Downloads:</strong> These links below take you to Google Drive dowloadable PDFs to print-out so you can share with your community.
+  <br>
+  <br>
+  <a href="https://drive.google.com/file/d/104hgVmRT1Zop8mCuvts377MQkbsBMF_h/view?usp=sharing" 
+     target="_blank" 
+     rel="noopener noreferrer">
+     Click here to view/download Bigger Tent PDF in Color
+  </a>
+</p>
+  <a href="https://drive.google.com/file/d/1Rjr-dkPdvmiO8kp6bBNRmfyvolEGVWdU/view?usp=sharing" 
+     target="_blank" 
+     rel="noopener noreferrer">
+     Click here to view/download Bigger Tent PDF in B&W
+  </a>
+</p>
